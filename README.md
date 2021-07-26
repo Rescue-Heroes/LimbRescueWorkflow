@@ -16,7 +16,7 @@ TODO
 ## *Summer 2021 Iteration*
 
 Technical Team:
--  Mengdi Fan
+-  Mengdi Fan 
 -  Tai-Yu Pan
 -  Rithvich Ramesh
 -  Browy Li
