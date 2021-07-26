@@ -26,12 +26,16 @@ Technical Team:
 
 ## Repositories
 ### LimbRescueML
--TODO
+- LimbRescueML implements four classification algorithms, Support Vector Machine(SVM), Multilayer Perceptron(MLP), Random Forest(RF), and Naive Bayes(NB) to predict lymphedema. Users can compare four classification algorithms, train and evaluate models, and predict based on saved models.
+- LimbRescueML provides dataset generation("generate_dataset.py"), model training("train_net.py"), model evaluation(FIXME), wave prediction(FIXME), and package installation(FIXME) pipelines.
+- Navigate to the README within the LimbRescueML repository for any clarifications regarding setup/installation.
 ### LimbRescueWeb
 - Develop a user friendly web application that allows patients/doctors to create an account, upload data, and identify a diagnois. 
 - The web application will facilitate a home based monitoring protocol for patients to monitor and track their lymphedema recordings.
 - The web application has been built using the Django framework and is styled using CSS, Bootstrap, and Javascript. 
 - The webapplication also features a chat bot within the 'Help' page in order for patients to recieve automated assistance to answer any questions regarding the project.
+- Navigate to the README within the LimbRescueWeb repository for any clarifications regarding setup/installation.
+
 ### LimbRescueWorkflow
 - Our team has drafted this wonderful repo that you are currently accessing. :)
 - The purpose of this workflow is to keep a running list of features and design decisions that have been implemented over the various iterations of this project.
