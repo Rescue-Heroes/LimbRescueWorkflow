@@ -2,7 +2,7 @@
 
 ## Spring 2021 Iteration 
 
-Team:
+Technical Team:
 -  Michael Montelone
 -  Nathan Newcomer
 -  Daniel Simpkins
@@ -18,7 +18,7 @@ Team:
 
 ## Summer 2021 Iteration 
 
-Team:
+Technical Team:
 -  Mengdi Fan
 -  Tai Yu Pan
 -  Rithvich Ramesh
@@ -28,7 +28,10 @@ Team:
 ### LimbRescueML
 -TODO
 ### LimbRescueWeb
--TODO
+- Develop a user friendly web application that allows patients/doctors to create an account, upload data, and identify a diagnois. 
+- The web application will facilitate a home based monitoring protocol for patients to monitor and track their lymphedema recordings.
+- The web application has been built using the Django framework and is styled using CSS, Bootstrap, and Javascript. 
+- The webapplication also features a chat bot within the 'Help' page in order for patients to recieve automated assistance to answer any questions regarding the project.
 ### LimbRescueWorkflow
 - Our team has drafted this wonderful repo that you are currently accessing. :)
 - The purpose of this workflow is to keep a running list of features and design decisions that have been implemented over the various iterations of this project.
