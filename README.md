@@ -10,11 +10,15 @@ Technical Team:
 
 ## Repositories
 ### ProjectLimbRescue
--TODO
+- The purpose of the code within this repo is to gather data on the water content of a limb using non-invasive wearable devices to assist in an early-warning system for patients at risk of lymphedema.
+- The code within this repo also enables the use of an Android Mobile app, for details on installation/set-up, navigate to the README within the ProjectLimbRescue repository and direct your attention to the 'Installation' section.
+
 ### PPGGraph
--TODO
+- This repository contains a messy python script that will display a graph of telemetry captured from the "Telemetry" wearOS app.
+- For usage of this code please navigate to the 'Usage' section of the PPGGraph README.
+
 ### SensorExample
--TODO
+- This application is an example of how to enumerate and poll data from the raw sensors on WearOS. This example requires at least WearOS 2.0 and a Fossil Gen 5 smartwatch. Emulators may not be fully supported. When run, the debug console will be populated with the readings.
 
 ## Summer 2021 Iteration 
 
