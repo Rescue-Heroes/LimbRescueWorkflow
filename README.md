@@ -1,6 +1,6 @@
 # What Has Been Completed Thus Far
 
-## Spring 2021 Iteration 
+## *Spring 2021 Iteration*
 
 Technical Team:
 -  Michael Montelone
