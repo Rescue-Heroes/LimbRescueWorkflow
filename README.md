@@ -1,3 +1,37 @@
+# What Has Been Completed Thus Far
+
+## Spring 2021 Iteration 
+
+Team:
+-  Michael Montelone
+-  Nathan Newcomer
+-  Daniel Simpkins
+-  Cole Swartz
+
+## Repositories
+### ProjectLimbRescue
+-TODO
+### PPGGraph
+-TODO
+### SensorExample
+-TODO
+
+## Summer 2021 Iteration 
+
+Team:
+-  Mengdi Fan
+-  Tai Yu Pan
+-  Rithvich Ramesh
+-  Browy Li
+
+## Repositories
+### ProjectLimbRescue
+-TODO
+### PPGGraph
+-TODO
+### SensorExample
+-TODO
+
 # Next Steps
 The purpose of this readme is to address any future design decisions or feature that we believe should be worked on in the next iteration of this project.
 
