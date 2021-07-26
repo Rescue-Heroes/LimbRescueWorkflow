@@ -25,12 +25,15 @@ Team:
 -  Browy Li
 
 ## Repositories
-### ProjectLimbRescue
+### LimbRescueML
 -TODO
-### PPGGraph
+### LimbRescueWeb
 -TODO
-### SensorExample
--TODO
+### LimbRescueWorkflow
+- Our team has drafted this wonderful repo that you are currently accessing. :)
+- The purpose of this workflow is to keep a running list of features and design decisions that have been implemented over the various iterations of this project.
+- Each team should take it upon themselves to update this README as they add new features to the project in order to maintain an organized workflow for future teams and sponsors to access. 
+- Keeping this README organized will ensure a more productive and less confusing development cycle of the project for each team's iteration.
 
 # Next Steps
 The purpose of this readme is to address any future design decisions or feature that we believe should be worked on in the next iteration of this project.
