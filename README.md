@@ -20,7 +20,7 @@ Technical Team:
 ### SensorExample
 - This application is an example of how to enumerate and poll data from the raw sensors on WearOS. This example requires at least WearOS 2.0 and a Fossil Gen 5 smartwatch. Emulators may not be fully supported. When run, the debug console will be populated with the readings.
 
-## Summer 2021 Iteration 
+## *Summer 2021 Iteration*
 
 Technical Team:
 -  Mengdi Fan
