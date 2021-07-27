@@ -7,7 +7,7 @@ The purpose of this README is to address any future design decisions or features
 A pivotal feature that will prove to be a strong asset to the project is implementing a method in which both smartwatches can automatically send the retrieved PPG data directly to the web application. Since the ML models have been completed, there is already functionality to read this data and determine a patient's diagnosis. 
 
 ### Ideal Solution:
-TODO
+An ideal solution that has been formulated is to pair one of the watches to the other watch and send the longitudinal waveform data from both arms via one watch. Our sponsors have a plethora of relevant articles relevant to sending data via the watches and the spring 2021 group has code within the repositories listed below that will assist with the functionality of this feature.
 
 ### Repositories that may be helpful to analyze when formulating a solution to this issue:
 - RescueHeroes/SensorExample
